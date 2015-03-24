@@ -1,0 +1,139 @@
+﻿@model IList<LessonProject.Model.User>
+
+@{
+    ViewBag.Title = "Users";
+    Layout = "~/Areas/Default/Views/Shared/_Layout.cshtml";
+}
+
+<form action="/User"  method="post" >
+<fieldset>
+        <legend> </legend>
+
+    @foreach (var user in Model)
+    {
+    <div class="row">
+    <div class="col-md-4">
+        <div>
+            <img style="display:flexbox; margin:0 auto;" width="240" height="200" src="../Content/themes/pics/User_Green.png" />
+            <br />
+              @foreach (var userrole in ViewBag.UserRolebag)
+                {
+                    if (userrole.UserID == user.ID)
+                    {
+                        int count=0;
+                        foreach (var role in ViewBag.Role)
+                        {
+                            if (userrole.RoleID == role.ID)
+                            {
+                                count++;
+                                string str = string.Format("  {0}; ", role.Code);
+                            <span class="label label-primary">@str</span>    
+                            }
+                        }
+                        if (count == 0)
+                        {
+                            string str = "RegisteredUser";
+                            <span class="label label-success"> @str</span> 
+                        }
+                    }
+                }
+            
+            
+        </div>
+        <br />
+
+    </div>
+
+    <div class="col-md-6">
+        <table class="table table-hover">
+            <tr>
+                <td>ID пользователя:</td>
+                <td>@user.ID</td>
+            </tr>
+            <tr>                    </tr>
+            <tr>
+                <td>Email:</td>
+                <td>@user.Email</td>
+            </tr>
+            <tr>                    </tr>
+            <tr>
+                <td>Дата добавления:</td>
+                <td>@user.AddedDate </td>
+            </tr>
+            <tr>                    </tr>
+            <tr>
+                <td>Роли:</td>
+
+                <td>
+                @foreach (var userrole in ViewBag.UserRolebag)
+                {
+                    if (userrole.UserID == user.ID)
+                    {
+                        int count=0;
+                        foreach (var role in ViewBag.Role)
+                        {
+                            if (userrole.RoleID == role.ID)
+                            {
+                                count++;
+                                string str = string.Format("  {0}; ", role.Code);
+                                @str
+                            }
+                        }
+                        if (count == 0)
+                        {
+                            string str = "RegisteredUser";
+                            @str
+                        }
+                    }
+                }
+
+                </td>
+            </tr>
+
+        </table>
+        <br />
+    </div>
+</div>
+        
+        
+        
+        @*<div class="item">
+            <span class="id">
+                @user.ID
+            </span>
+            <span class="email">
+                @user.Email
+            </span>
+            <span class="activateDate">
+                @user.AddedDate
+            </span>
+            <span class="Info">
+                Привилегии:
+            </span>
+            <span class="roles">
+                @foreach (var userrole in ViewBag.UserRolebag)
+                {
+                    if (userrole.UserID == user.ID)
+                    {
+                        int count=0;
+                        foreach (var role in ViewBag.Role)
+                        {
+                            if (userrole.RoleID == role.ID)
+                            {
+                                count++;
+                                string str = string.Format("  {0}; ", role.Code);
+                                @str
+                            }
+                        }
+                        if (count == 0)
+                        {
+                            string str = "RegisteredUser";
+                            @str
+                        }
+                    }
+                }
+            </span>
+        </div>*@
+    }
+</fieldset>
+</form>

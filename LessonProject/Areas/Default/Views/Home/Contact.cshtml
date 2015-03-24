@@ -1,0 +1,83 @@
+﻿@model LessonProject.Models.ViewModels.ContactView
+@{
+    ViewBag.Title = "Contact";
+    Layout = "~/Areas/Default/Views/Shared/_Layout.cshtml";
+}
+
+<fieldset>
+ <legend>Связь с диспетчером</legend>
+
+@using (Html.BeginForm("Contact", "Home", FormMethod.Post, new { @class = "form-horizontal" }))
+{  
+ if (ViewBag.Count != 0)
+ {
+    foreach (var mess in ViewBag.Newmessages)
+    { 
+        String str=string.Format("{0} - {1} \n",mess.Key,mess.Value);
+     <p>@str</p>
+    
+    }
+ 
+ }
+
+   <div class="control-group">
+   <div class="controls">
+                @* агрегируй во вью модел или через форыч как -то просто @Html.TextBox("AllMessages",Model.AllMessages) 
+                Model.AllMessagesничего не даст
+                кстати попробовал линк запихнуть, все равно не обновил, тут может перепиши меоды попробуй
+                убери гет  в контроллере например, пост вроде проходит но с тем же значением 
+                *@  
+   </div>
+  
+        <div class="controls">
+     @Html.ValidationMessage("Message")
+     <span>@Html.TextBox("Message")</span>
+   </div>
+   </div>
+    <br>
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary">
+                Отправить
+            </button>
+        </div>
+    
+    
+}
+<br>
+<div class="row">
+ <div class="col-md-2"><label>Связаться с водителем:</label><br><script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+  <div id="SkypeButton_Call_Driver_1">
+   <script type="text/javascript">
+      Skype.ui({
+          "name": "call",
+          "element": "SkypeButton_Call_Driver_1",
+          "participants": ["Driver"],
+          "imageSize": 32
+      });</script>    
+  </div>
+
+ </div>
+<div class="col-md-6"><label>Связаться с диспетчером:</label><br> <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+  <div id="SkypeButton_Call_Dispetcher_1">
+  <script type="text/javascript">
+      Skype.ui({
+          "name": "call",
+          "element": "SkypeButton_Call_Dispetcher_1",
+          "participants": ["Dispetcher"],
+          "imageSize": 32
+      });</script>
+  </div>
+
+</div>
+</div>
+
+
+
+   
+    
+
+
+
+
+
+</fieldset>

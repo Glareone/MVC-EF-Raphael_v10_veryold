@@ -1,0 +1,611 @@
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Antlr3.Runtime.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\AutoMapper.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\EntityFramework.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Newtonsoft.Json.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\NLog.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.Formatting.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.WebRequest.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.WebHost.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Mvc.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Optimization.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Providers.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Razor.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\WebActivator.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\WebGrease.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\AutoMapper.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Common.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Ninject.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\NLog.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\EntityFramework.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\Newtonsoft.Json.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.Formatting.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Net.Http.WebRequest.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Http.WebHost.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Mvc.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\bin\System.Web.WebPages.Razor.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject\obj\Debug\LessonProject.csprojResolveAssemblyReference.cache

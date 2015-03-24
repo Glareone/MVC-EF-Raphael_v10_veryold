@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Graphic";
+    Layout = "~/Areas/Default/Views/Shared/_Layout.cshtml";
+}
+ <fieldset>
+        <legend>График перевозок в текущем месяце</legend>
+    <label class="control-label" for="time">@ViewBag.datetime</label>
+    <div></div>
+@if (ViewBag.transportinfo != null)
+{ 
+    <label class="control-label" for="info">@ViewBag.transportinfo</label>
+}
+@if (ViewBag.starttimemas != null)
+    
+{
+    <br>
+       
+    for (int i = 0; i < ViewBag.Count; i++)
+    {
+        string str = string.Format("перевозка запланирована с {0} по {1}", ViewBag.starttimemas[i], ViewBag.stoptimemas[i]);
+         <label class="control-label" for="info">@str</label>  
+    }
+    
+}
+
+<fieldset>
+<div class="form-actions">
+
+@using (Html.BeginForm("Graphic", "Home", FormMethod.Post))
+{    
+ for(int number=1;number<=ViewBag.Days;number++)
+ {
+     float amount_in_line = number;
+    if(number<10)
+    {
+     string str=string.Format(" "+"{0}" + " ",number);   
+     <button type="submit" class="btn btn-primary" name="data" value="@str">
+     @str
+     </button>
+    }
+    else
+    {
+     string str = string.Format("{0}", number);
+     ViewBag.str = str;
+    <button type="submit" class="btn btn-primary" name="data" value="@str">
+      @str
+     </button>
+    }
+     if(amount_in_line%7==0 && amount_in_line!=0)
+     {
+      <div class="item"> </div>
+     }
+ }
+}
+</div>
+</fieldset>
+</fieldset>

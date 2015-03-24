@@ -1,0 +1,110 @@
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\работает авторизация,настроил 05.05\работает авторизация,настроил 01.05\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_06.05\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v2\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v3\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v4\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v5\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v6\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v7\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v8\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v9\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.csprojResolveAssemblyReference.cache
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\Учебка 4 курс 1 семестр\Diplom\lessons\auth+frontend_v10\auth+frontend_v6\auth+frontend_v5\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb

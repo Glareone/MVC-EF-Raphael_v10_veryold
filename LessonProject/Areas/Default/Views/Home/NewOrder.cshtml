@@ -1,0 +1,52 @@
+﻿@model LessonProject.Models.ViewModels.OrderView
+@{
+    ViewBag.Title = "NewOrder";
+    Layout = "~/Areas/Default/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("NewOrder", "Home", FormMethod.Post, new { @class = "form-horizontal" }))
+{
+    if (ViewBag.Message!=null) {@ViewBag.Message}
+    if (ViewBag.CurUser != null) { Model.ID = ViewBag.CurUser.ID; }
+    @Html.ValidationSummary()
+
+<fieldset>
+        <legend>Создать новый заказ</legend>
+    <div class="control-group">
+            <label class="control-label" for="Email">
+                Введите Ваше Имя
+            </label>
+            <div class="controls">
+                @Html.ValidationMessage("Name")
+                @Html.TextBox("Name", Model.Name)
+            </div>
+    </div>
+            <label class="control-label" for="PhoneNumber">
+                Введите Телефон для связи
+            </label>
+         <div class="control-group">
+            <div class="controls">
+                @Html.ValidationMessage("PhoneNumber")
+                @Html.TextBox("PhoneNumber", Model.PhoneNumber)
+            </div>
+         </div>
+     
+
+      <div class="control-group">
+            <label class="control-label" for="FirstName">
+                Введите время начала и окончания перевозки
+            </label>
+            <div class="controls">
+                @Html.DropDownList("StartHour", Model.StartTimeSelectList)
+                @Html.DropDownList("StopHour", Model.StopTimeSelectList)
+                
+            </div>
+        </div>
+               
+      <div class="form-actions">
+            <button type="submit" class="btn btn-primary">
+                Регистрация Заказа
+            </button>
+      </div>
+</fieldset>
+}

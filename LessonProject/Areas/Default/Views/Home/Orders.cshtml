@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Orders";
+    Layout = "~/Areas/Default/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Заказы</h2>
+@if(ViewBag.ID!=null)
+{
+    for (int i = 0; i < ViewBag.ID.Count; i++)
+    { 
+     <div>   
+     Номер заказа : @ViewBag.ID[i]
+     Имя заказчика: @ViewBag.Name[i]
+     Телефон заказчика: @ViewBag.Phonenumber[i]
+     Время начала заказа: @ViewBag.Starttime[i]
+     Время конца заказа: @ViewBag.Stoptime[i]
+     Стоимость: @ViewBag.Cost[i]
+     </div>
+    }
+
+}

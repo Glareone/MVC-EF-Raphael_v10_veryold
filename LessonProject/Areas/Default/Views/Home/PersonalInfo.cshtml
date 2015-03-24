@@ -1,0 +1,57 @@
+﻿@model LessonProject.Model.User
+@{
+    ViewBag.Title = "PersonalInfo";
+    Layout = "~/Areas/Default/Views/Shared/_Layout.cshtml";
+}
+<html>
+<body>
+<meta charset="utf-8">
+
+<h2>Личный кабинет</h2>
+<fieldset>
+
+        <legend></legend>
+@*<div style="background:center"><img src="\Content\themes\pics\cabinet.jpg" class="logo" width="300" height="300"></div> *@
+<style>
+
+
+
+fieldset{
+background-image: url("../Content/themes/pics/cabinet.jpg");
+background-position:right ;
+background-repeat: no-repeat;
+}
+
+</style>
+    <div class="img" ><img src="@ViewBag.avatarpath"  class="img" width="150" height="150" border="2"></div>
+    <div>Идентификационный номер пользователя</div>
+    <span class="id">
+                @Model.ID   
+    </span>
+        <div>Логин пользователя</div>
+    <span class="id">
+                @Model.Email   
+    </span>
+    <div>@Html.TextBox("Email", Model.Email, new { @class = "input-xlarge" })</div>
+    <div>Пароль пользователя</div>
+    <span class="Password">
+                @Model.Password   
+    </span>
+    <div>@Html.TextBox("Password")  <button type="submit" class="btn btn-primary" value="Password">Изменить пароль</button></div> 
+
+    <div>Дата последнего визита пользователя</div>
+    <span class="lastvisit">
+                @Model.LastVisitDate
+    </span>
+    <div>Путь к аватару</div>
+    <span class="avatarpath">
+                @Model.AvatarPath
+      
+    </span>
+    <div>@Html.TextBox("AvatarPath")  <button type="submit" class="btn btn-primary" value="AvatarPath">Изменить аватар</button></div> 
+
+
+
+</fieldset>
+</body>
+</html>

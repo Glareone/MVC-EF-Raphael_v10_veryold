@@ -1,0 +1,134 @@
+﻿@{
+    ViewBag.Title = "Главная страница";
+    Layout = "~/Areas/Default/Views/Shared/_Layout.cshtml";
+}
+@model IList<LessonProject.Model.User>
+<html>
+    <head>
+        <title>@ViewBag.Title</title>
+         <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+         <script src="@Url.Content("~/Scripts/jquery-1.7.1.min.js")" type="text/javascript"></script>
+         <script src="@Url.Content("~/Scripts/raphael.js")" type="text/javascript"></script>
+         <script src="@Url.Content("~/Scripts/ourscript.js")" type="text/javascript"></script>
+
+  <style>
+              
+    #canvas_container {
+    width: 500px;
+    border: 1px solid #aaa;
+    }
+
+    #slider {
+      overflow: hidden;
+      position: relative;
+      width: 550px;
+      border: 2px solid black;
+      border-radius: 20px;
+      height: 150px;
+    }
+    #images {
+      width: 5000px;
+      list-style: none;
+      padding: 0;
+    }
+    #images li {
+      float: left;
+    }
+    #arrow-left{
+      top: 55px;
+      left: 10px;
+    }
+    #arrow-right {
+      top: 55px;
+      right: 10px;
+    }
+    .arrow {
+      cursor: pointer;
+      text-align: center;
+      padding-top: 12px;
+      position: absolute;
+      background-color: #aaa;
+      border-radius: 10px;
+      width: 25px;
+      height: 30px;
+    }
+    .arrow:hover {
+    }
+  </style>
+    
+    </head>
+<body>
+
+    <fieldset>
+        <legend>Добро пожаловать в Программное средство диспетчеризации перевозок</legend>
+        <label>Вы можете просмотреть информацию о компании и новости компании</label><div></div>
+        <label>Для получения дополнительных возможностей программного средства пожалуйста зарегистрируйтесь!</label>
+   
+    </fieldset>
+    <div id='slider'>
+    <div id='arrow-left' class='arrow' style='opacity: 0.1'>&#60;</div>
+     <ul id="images" style="margin-left: 15px">
+      <li><img src="../Content/themes/pics/karusel1.jpg" height="200" width="200"></li>
+      <li><img src="../Content/themes/pics/karusel2.jpg" height="200" width="200"></li>
+      <li><img src="../Content/themes/pics/karusel3.jpg" height="200" width="200"></li>
+      <li><img src="../Content/themes/pics/karusel4.jpg" height="200" width="200"></li>
+      <li><img src="../Content/themes/pics/karusel5.jpg" height="200" width="200"></li>
+      <li><img src="../Content/themes/pics/karusel1.jpg" height="200" width="200"></li>
+      <li><img src="../Content/themes/pics/karusel2.jpg" height="200" width="200"></li>
+      <li><img src="../Content/themes/pics/karusel3.jpg" height="200" width="200"></li>
+      <li><img src="../Content/themes/pics/karusel4.jpg" height="200" width="200"></li>
+    </ul>
+    <div id='arrow-right' class='arrow' style='opacity: 0.1'>&#62;</div>
+  </div>
+
+
+<script>
+
+    var arrowLeft = document.getElementById('arrow-left');
+    var arrowRight = document.getElementById('arrow-right');
+    var slider = document.getElementById('slider');
+    var list = document.getElementById('images');
+    var lis = list.getElementsByTagName('li');
+    var count = 0;
+
+    slider.onmouseover = function () {
+        arrowLeft.style.opacity = '1.0';
+        arrowRight.style.opacity = '1.0';
+    }
+    slider.onmouseout = function () {
+        arrowLeft.style.opacity = '0.1';
+        arrowRight.style.opacity = '0.1';
+    }
+
+
+    arrowRight.onclick = function () {
+        if (count < 6) {
+            var value = parseInt(list.style.marginLeft);
+            list.style.marginLeft = value - 132 + 'px';
+            count++;
+        }
+    }
+    arrowLeft.onclick = function () {
+        if (count > 0) {
+            var value = parseInt(list.style.marginLeft);
+            list.style.marginLeft = value + 132 + 'px';
+            count--;
+        }
+    }
+
+</script>
+<div id="canvas_container"></div>
+<!-- Первая попытка использования рафаеля
+<script type="text/javascript">
+
+    function createCircle() {
+        var paper = Raphael("diii", 320, 200);
+        var circle = paper.circle(50, 40, 10);
+        circle.attr("fill", "#f00");
+        circle.attr("stroke", "#fff");
+    }
+
+</script>
+-->
+</body>
+</html>

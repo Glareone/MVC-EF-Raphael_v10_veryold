@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Contactwithdriver";
+    Layout = "~/Areas/Default/Views/Shared/_Layout.cshtml";
+}
+
+<fieldset>
+        <legend>Связь с водителем</legend>
+
+@using (Html.BeginForm("Contactwithdriver", "Home", FormMethod.Post, new { @class = "form-horizontal" }))
+{
+ if (ViewBag.Count != 0)
+ {
+    foreach (var mess in ViewBag.Newmessages)
+    { 
+        String str=string.Format("{0} - {1} \n",mess.Key,mess.Value);
+     <label>@str</label><div></div>
+    
+    }
+ 
+ }
+
+   <div class="control-group">
+   <div class="controls">
+
+   </div>
+   <div class="controls">
+     @Html.ValidationMessage("Message")
+     <span>@Html.TextBox("Message")</span>
+   </div>
+   </div>
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary">
+                Отправить
+            </button>
+        </div>
+    }
+
+</fieldset>

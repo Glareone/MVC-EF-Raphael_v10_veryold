@@ -1,0 +1,127 @@
+﻿@model LessonProject.Model.User
+<html>
+<head>
+    <title></title>
+</head>
+    <body>
+<header>
+ <div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-4"><img src="\Content\themes\pics\logo.png" width="500" height="100"></div>
+ </div>   
+<br>
+     <div class="page">
+      <div id="header">
+       <div id="menucontainer">
+         
+@if (Model==null)
+{
+<!-- видимость незарегистрированного пользователя -->
+    
+           <ul id="menu"> 
+            <li>@Html.ActionLink("Вход", "Index", "Login")</li>
+            <li>@Html.ActionLink("Регистрация", "Register", "User")</li>
+            <li>@Html.ActionLink("О Компании","AboutUs","Home")</li>
+            <li>@Html.ActionLink("Новости","News","Home")</li> 
+           </ul>
+}
+
+else if(Model.ID<=2) 
+{
+<!-- Видимость администратора -->   
+        <ul id="menu">
+          <li>@Html.ActionLink(@Model.Email,"PersonalInfo","Home")</li>
+          <li>@Html.ActionLink("Выход", "Logout", "Login")</li>
+          <li>@Html.ActionLink("О Компании","AboutUs","Home")</li>
+          <li>@Html.ActionLink("Новости","News","Home")</li>  
+        </ul>
+
+        <ul id="rubric">
+          <li>@Html.ActionLink("Заказать Перевозку","NewOrder","Home")</li>
+          <li>@Html.ActionLink("Связь с диспетчером","Contact","Home")</li>
+          @*<li>@Html.ActionLink("Просмотр Отчетов","Report","Home")</li>*@
+          <li>@Html.ActionLink("График перевозок","Graphic","Home")</li>
+          <li><a href="@Url.Action("Index", "Role", new { id = "1" })">Роли</a></li>
+          <li>@Html.ActionLink("Пользователи",  "Index", "User")</li>
+          <li>@Html.ActionLink("Просмотр перевозок","Orders","Home")</li>
+        </ul>
+}
+else if (Model.ID == 3)
+{ 
+<!-- Видимость диспетчера -->
+         <ul id="menu">
+          <li>@Html.ActionLink(@Model.Email,"UserLogin","Home")</li>
+          <li>@Html.ActionLink("Выход", "Logout", "Login")</li>
+          <li>@Html.ActionLink("О Компании","AboutUs","Home")</li>
+          <li>@Html.ActionLink("Новости","News","Home")</li> 
+         </ul>
+    
+         <ul id="rubric">
+          <li>@Html.ActionLink("Связь с диспетчером","Contact","Home")</li>
+          <li>@Html.ActionLink("График перевозок","Graphic","Home")</li>
+          <li>@Html.ActionLink("Текущие перевозки","Orders","Home")</li>
+          <li>@Html.ActionLink("Просмотр перевозок","Orders","Home")</li>
+         </ul>
+         
+} 
+else if (Model.ID == 4)
+{ 
+<!-- Видимость водителя -->
+         <ul id="menu">
+          <li>@Html.ActionLink(@Model.Email,"UserLogin","Home")</li>
+          <li>@Html.ActionLink("Выход", "Logout", "Login")</li>
+          <li>@Html.ActionLink("О Компании","AboutUs","Home")</li>
+          <li>@Html.ActionLink("Новости","News","Home")</li> 
+         </ul>
+    
+         <ul id="rubric">
+          <li>@Html.ActionLink("Связь с диспетчером","Contactwithdriver","Home")</li>
+          <li>@Html.ActionLink("Просмотр перевозок","Orders","Home")</li>
+         </ul>
+} 
+else if (Model.ID == 5)
+{ 
+<!-- Видимость директора -->
+         <ul id="menu">
+          <li>@Html.ActionLink(@Model.Email,"UserLogin","Home")</li>
+          <li>@Html.ActionLink("Выход", "Logout", "Login")</li>
+          <li>@Html.ActionLink("О Компании","AboutUs","Home")</li>
+          <li>@Html.ActionLink("Новости","News","Home")</li> 
+         </ul>
+    
+         <ul id="rubric">
+          <li>@Html.ActionLink("Связь с диспетчером","Contact","Home")</li>
+          <li>@Html.ActionLink("Просмотр Отчетов","Report","Home")</li>
+          <li>@Html.ActionLink("Просмотр перевозок","Orders","Home")</li>
+         </ul>
+    
+} 
+else if (Model.ID >= 6)
+{ 
+<!-- Видимость зарегистрированного пользователя -->
+         <ul id="menu">
+          <li>@Html.ActionLink(@Model.Email,"UserLogin","Home")</li>
+          <li>@Html.ActionLink("Выход", "Logout", "Login")</li>
+          <li>@Html.ActionLink("О Компании","AboutUs","Home")</li>
+          <li>@Html.ActionLink("Новости","News","Home")</li> 
+         </ul>
+    
+         <ul id="rubric">
+          <li>@Html.ActionLink("Связь с диспетчером","Contact","Home")</li>
+          @if(ViewBag.contractcount==null)
+          {     
+          <li>@Html.ActionLink("Заказать Перевозку","NewOrder","Home")</li>
+          }
+          else
+          {
+          <li>@Html.ActionLink("Информация о заказе","Orders","Home")</li>
+          }
+         </ul>
+    
+} 
+       </div>
+      </div>
+     </div>
+</header>
+</body>
+</html>
